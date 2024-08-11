@@ -1,0 +1,18 @@
+# Derlenmis dosyalar
+bin/
+obj/
+
+#IDE ve kisisel konfigurasyon dosyalari
+.vs/
+
+Properties/
+Migrations/
+CarApi_Dotnet8.http
+
+# Paketler
+*.nupkg
+packages/
+
+appsettings.json
+appsettings.Development.json
+CarApi_Dotnet8.csproj.user
